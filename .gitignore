@@ -11,6 +11,9 @@
 *.sln.docstates
 *.env
 
+# Local credential overrides — never commit
+appsettings.local.json
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
